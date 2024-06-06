@@ -1,0 +1,8 @@
+"Code","Description","Condition","Sub-condition"
+"B1500","Primary carcinoma of liver","Solid organ malignancies","Primary Malignancy_Liver"
+"B1503","Hepatocellular carcinoma","Solid organ malignancies","Primary Malignancy_Liver"
+"B150.","Primary malignant neoplasm of liver","Solid organ malignancies","Primary Malignancy_Liver"
+"B152.","Malignant neoplasm of liver unspecified","Solid organ malignancies","Primary Malignancy_Liver"
+"BB5D5","[M]Hepatocellular carcinoma NOS","Solid organ malignancies","Primary Malignancy_Liver"
+"Byu11","[X]Other specified carcinomas of liver","Solid organ malignancies","Primary Malignancy_Liver"
+"ZV100","[V]Personal history of malignant neoplasm of gastrointestinal tract","Solid organ malignancies","Primary Malignancy_Liver"

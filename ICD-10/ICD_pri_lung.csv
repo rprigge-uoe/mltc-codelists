@@ -1,0 +1,3 @@
+"Code","Description","Condition","Sub-condition"
+"C33","Malignant neoplasm of trachea","Solid organ malignancies","Primary Malignancy_Lung and trachea"
+"C34","Malignant neoplasm of bronchus and lung","Solid organ malignancies","Primary Malignancy_Lung and trachea"

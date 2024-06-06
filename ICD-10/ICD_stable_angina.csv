@@ -1,0 +1,4 @@
+"Code","Description","Condition","Sub-condition"
+"I20.1","Angina pectoris with documented spasm","Coronary heart disease","Stable angina"
+"I20.8","Other forms of angina pectoris","Coronary heart disease","Stable angina"
+"I20.9","Angina pectoris, unspecified","Coronary heart disease","Stable angina"

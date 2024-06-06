@@ -1,0 +1,5 @@
+"Code","Description","Condition","Sub-condition"
+"K25","Gastric ulcer","Peptic ulcer disease","Peptic ulcer disease"
+"K26","Duodenal ulcer","Peptic ulcer disease","Peptic ulcer disease"
+"K27","Peptic ulcer, site unspecified","Peptic ulcer disease","Peptic ulcer disease"
+"K28","Gastrojejunal ulcer","Peptic ulcer disease","Peptic ulcer disease"

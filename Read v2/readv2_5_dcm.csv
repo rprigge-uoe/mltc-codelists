@@ -1,0 +1,5 @@
+"Code","Description","Condition","Sub-condition"
+"G5540","Congestive cardiomyopathy","Cardiomyopathy","Dilated cardiomyopathy"
+"G5544","Primary dilated cardiomyopathy","Cardiomyopathy","Dilated cardiomyopathy"
+"G555.","Alcoholic cardiomyopathy","Cardiomyopathy","Dilated cardiomyopathy"
+"G55y.","Secondary cardiomyopathy NOS","Cardiomyopathy","Dilated cardiomyopathy"

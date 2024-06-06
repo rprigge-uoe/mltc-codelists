@@ -1,0 +1,7 @@
+"Code","Description","Condition","Sub-condition"
+"L40","Psoriasis","Psoriasis","Psoriasis"
+"M07.0","Distal interphalangeal psoriatic arthropathy","Psoriasis","Psoriasis"
+"M07.1","Arthritis mutilans","Psoriasis","Psoriasis"
+"M07.2","Psoriatic spondylitis","Psoriasis","Psoriasis"
+"M07.3","Other psoriatic arthropathies","Psoriasis","Psoriasis"
+"M09.0","Juvenile arthritis in psoriasis","Psoriasis","Psoriasis"

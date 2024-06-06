@@ -1,0 +1,8 @@
+"Code","Description","Condition","Sub-condition"
+"D80","Immunodeficiency with predominantly antibody defects","Immunodeficiencies","Immunodeficiencies"
+"D81","Combined immunodeficiencies","Immunodeficiencies","Immunodeficiencies"
+"D82","Immunodeficiency associated with other major defects","Immunodeficiencies","Immunodeficiencies"
+"D83","Common variable immunodeficiency","Immunodeficiencies","Immunodeficiencies"
+"D84.0","Lymphocyte function antigen-1 [LFA-1] defect","Immunodeficiencies","Immunodeficiencies"
+"D84.8","Other specified immunodeficiencies","Immunodeficiencies","Immunodeficiencies"
+"D84.9","Immunodeficiency, unspecified","Immunodeficiencies","Immunodeficiencies"

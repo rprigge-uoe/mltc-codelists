@@ -1,0 +1,7 @@
+"Code","Description","Condition","Sub-condition"
+"A176.","Tuberculosis of adrenal glands - Addison's disease","Addisons disease","Addisons disease"
+"C154.","Corticoadrenal insufficiency","Addisons disease","Addisons disease"
+"C1540","Acute adrenal insufficiency","Addisons disease","Addisons disease"
+"C1541","Addison's disease","Addisons disease","Addisons disease"
+"C1546","Addisonian crisis","Addisons disease","Addisons disease"
+"C154z","Corticoadrenal insufficiency NOS","Addisons disease","Addisons disease"

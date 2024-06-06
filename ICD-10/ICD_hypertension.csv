@@ -1,0 +1,6 @@
+"Code","Description","Condition","Sub-condition"
+"I10","Essential (primary) hypertension","Hypertension","Hypertension"
+"I11","Hypertensive heart disease","Hypertension","Hypertension"
+"I12","Hypertensive renal disease","Hypertension","Hypertension"
+"I13","Hypertensive heart and renal disease","Hypertension","Hypertension"
+"I15","Secondary hypertension","Hypertension","Hypertension"

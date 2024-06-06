@@ -1,0 +1,4 @@
+"Code","Description","Condition","Sub-condition"
+"B5830","Secondary malignant neoplasm of brain","Solid organ malignancies","Secondary Malignancy_Brain, Other CNS and Intracranial"
+"B5832","Cerebral metastasis","Solid organ malignancies","Secondary Malignancy_Brain, Other CNS and Intracranial"
+"B583z","Secondary malignant neoplasm of brain or spinal cord NOS","Solid organ malignancies","Secondary Malignancy_Brain, Other CNS and Intracranial"

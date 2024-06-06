@@ -1,0 +1,6 @@
+"Code","Description","Condition","Sub-condition"
+"B170.","Malignant neoplasm of head of pancreas","Solid organ malignancies","Primary Malignancy_Pancreatic"
+"B171.","Malignant neoplasm of body of pancreas","Solid organ malignancies","Primary Malignancy_Pancreatic"
+"B172.","Malignant neoplasm of tail of pancreas","Solid organ malignancies","Primary Malignancy_Pancreatic"
+"B17..","Malignant neoplasm of pancreas","Solid organ malignancies","Primary Malignancy_Pancreatic"
+"B17z.","Malignant neoplasm of pancreas NOS","Solid organ malignancies","Primary Malignancy_Pancreatic"

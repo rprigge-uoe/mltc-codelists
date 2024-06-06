@@ -1,0 +1,6 @@
+"Code","Description","Condition","Sub-condition"
+"C2620","Folic acid deficiency","Iron and vitamin deficiency anaemia","Folate deficiency anaemia"
+"D0121","Folate-deficiency anaemia due to dietary causes","Iron and vitamin deficiency anaemia","Folate deficiency anaemia"
+"D012.","Folate-deficiency anaemia","Iron and vitamin deficiency anaemia","Folate deficiency anaemia"
+"D012z","Folate-deficiency anaemia NOS","Iron and vitamin deficiency anaemia","Folate deficiency anaemia"
+"D0130","Combined B12 and folate deficiency anaemia","Iron and vitamin deficiency anaemia","Folate deficiency anaemia"

@@ -1,0 +1,4 @@
+"Code","Description","Condition","Sub-condition"
+"M80","Osteoporosis with pathological fracture","Osteoporosis and vertebral crush fractures","Osteoporosis"
+"M81","Osteoporosis without pathological fracture","Osteoporosis and vertebral crush fractures","Osteoporosis"
+"M82","Osteoporosis in diseases classified elsewhere","Osteoporosis and vertebral crush fractures","Osteoporosis"

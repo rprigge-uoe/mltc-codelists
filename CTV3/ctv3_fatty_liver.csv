@@ -1,0 +1,6 @@
+"Code","Description","Condition","Sub-condition"
+"J610.","Alcoholic fatty liver","Fatty Liver","Fatty Liver"
+"J61y1","Non-alcoholic fatty liver","Fatty Liver","Fatty Liver"
+"J61y7","Steatosis of liver","Fatty Liver","Fatty Liver"
+"X307v","Fatty change of liver","Fatty Liver","Fatty Liver"
+"XaQIT","Nonalcoholic steatohepatitis","Fatty Liver","Fatty Liver"

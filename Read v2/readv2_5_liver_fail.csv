@@ -1,0 +1,5 @@
+"Code","Description","Condition","Sub-condition"
+"J6000","Acute hepatic failure","Chronic liver disease","Hepatic failure"
+"J622.","Hepatic coma","Chronic liver disease","Hepatic failure"
+"J625.","[X] Hepatic failure","Chronic liver disease","Hepatic failure"
+"J62y.","Other sequelae of chronic liver disease","Chronic liver disease","Hepatic failure"

@@ -1,0 +1,4 @@
+"Code","Description","Condition","Sub-condition"
+"B440.","Malignant neoplasm of ovary","Solid organ malignancies","Primary Malignancy_Ovarian"
+"BB5j2","[M]Endometrioid carcinoma","Solid organ malignancies","Primary Malignancy_Ovarian"
+"ZV104","[V]Personal history of malignant neoplasm of genital organ","Solid organ malignancies","Primary Malignancy_Ovarian"

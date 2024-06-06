@@ -1,0 +1,8 @@
+"Code","Description","Condition","Sub-condition"
+"I25.5","Ischaemic cardiomyopathy","Cardiomyopathy","Other Cardiomyopathy"
+"I42.3","Endomyocardial (eosinophilic) disease","Cardiomyopathy","Other Cardiomyopathy"
+"I42.5","Other restrictive cardiomyopathy","Cardiomyopathy","Other Cardiomyopathy"
+"I42.7","Cardiomyopathy due to drugs and other external agents","Cardiomyopathy","Other Cardiomyopathy"
+"I42.8","Other cardiomyopathies","Cardiomyopathy","Other Cardiomyopathy"
+"I42.9","Cardiomyopathy, unspecified","Cardiomyopathy","Other Cardiomyopathy"
+"I43","Cardiomyopathy in diseases classified elsewhere","Cardiomyopathy","Other Cardiomyopathy"

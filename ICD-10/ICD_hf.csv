@@ -1,0 +1,5 @@
+"Code","Description","Condition","Sub-condition"
+"I11.0","Hypertensive heart disease with (congestive) heart failure","Heart failure","Heart failure"
+"I13.0","Hypertensive heart and renal disease with (congestive) heart failure","Heart failure","Heart failure"
+"I13.2","Hypertensive heart and renal disease with both (congestive) heart failure and renal failure","Heart failure","Heart failure"
+"I50","Heart failure","Heart failure","Heart failure"

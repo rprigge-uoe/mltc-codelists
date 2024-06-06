@@ -1,0 +1,6 @@
+"Code","Description","Condition","Sub-condition"
+"C91","Lymphoid leukaemia","Haematological malignancies","Leukaemia"
+"C92","Myeloid leukaemia","Haematological malignancies","Leukaemia"
+"C93","Monocytic leukaemia","Haematological malignancies","Leukaemia"
+"C94","Other leukaemias of specified cell type","Haematological malignancies","Leukaemia"
+"C95","Leukaemia of unspecified cell type","Haematological malignancies","Leukaemia"

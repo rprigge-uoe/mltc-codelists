@@ -1,0 +1,6 @@
+"Code","Description","Condition","Sub-condition"
+"F00","Dementia in Alzheimer's disease","Dementia","Dementia"
+"F01","Vascular dementia","Dementia","Dementia"
+"F03","Unspecified dementia","Dementia","Dementia"
+"F05.1","Delirium superimposed on dementia","Dementia","Dementia"
+"G30","Alzheimer's disease","Dementia","Dementia"

@@ -1,0 +1,7 @@
+"Code","Description","Condition","Sub-condition"
+"F380.","Myasthenia gravis","Myasthenia gravis","Myasthenia gravis"
+"F3801","Juvenile or adult myasthenia gravis","Myasthenia gravis","Myasthenia gravis"
+"F380z","Myasthenia gravis NOS","Myasthenia gravis","Myasthenia gravis"
+"F3810","Eaton Lambert myasthenic syndrome","Myasthenia gravis","Myasthenia gravis"
+"X00Cu","Myasthenia gravis associated with thymoma","Myasthenia gravis","Myasthenia gravis"
+"X00Cv","Generalised myasthenia","Myasthenia gravis","Myasthenia gravis"

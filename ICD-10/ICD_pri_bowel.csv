@@ -1,0 +1,5 @@
+"Code","Description","Condition","Sub-condition"
+"C18","Malignant neoplasm of colon","Solid organ malignancies","Primary Malignancy_colorectal and anus"
+"C19","Malignant neoplasm of rectosigmoid junction","Solid organ malignancies","Primary Malignancy_colorectal and anus"
+"C20","Malignant neoplasm of rectum","Solid organ malignancies","Primary Malignancy_colorectal and anus"
+"C21","Malignant neoplasm of anus and anal canal","Solid organ malignancies","Primary Malignancy_colorectal and anus"

@@ -1,0 +1,4 @@
+"Code","Description","Condition","Sub-condition"
+"BBP1.","[M]Mesothelioma, malignant","Solid organ malignancies","Primary Malignancy_Mesothelioma"
+"BBP3.","[M]Fibrous mesothelioma, malignant","Solid organ malignancies","Primary Malignancy_Mesothelioma"
+"BBP5.","[M]Epithelioid mesothelioma, malignant","Solid organ malignancies","Primary Malignancy_Mesothelioma"

@@ -1,0 +1,7 @@
+"Code","Description","Condition","Sub-condition"
+"B151.","Malignant neoplasm of intrahepatic bile ducts","Solid organ malignancies","Primary Malignancy_biliary tract"
+"B151z","Malignant neoplasm of intrahepatic bile ducts NOS","Solid organ malignancies","Primary Malignancy_biliary tract"
+"B1611","Malignant neoplasm of hepatic duct","Solid organ malignancies","Primary Malignancy_biliary tract"
+"B161z","Malignant neoplasm of extrahepatic bile ducts NOS","Solid organ malignancies","Primary Malignancy_biliary tract"
+"B162.","Malignant neoplasm of ampulla of Vater","Solid organ malignancies","Primary Malignancy_biliary tract"
+"BB5D1","[M]Cholangiocarcinoma","Solid organ malignancies","Primary Malignancy_biliary tract"

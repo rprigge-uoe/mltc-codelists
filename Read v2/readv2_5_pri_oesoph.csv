@@ -1,0 +1,7 @@
+"Code","Description","Condition","Sub-condition"
+"B104.","Malignant neoplasm of middle third of oesophagus","Solid organ malignancies","Primary Malignancy_Oesophageal"
+"B105.","Malignant neoplasm of lower third of oesophagus","Solid organ malignancies","Primary Malignancy_Oesophageal"
+"B10..","Malignant neoplasm of oesophagus","Solid organ malignancies","Primary Malignancy_Oesophageal"
+"B10y.","Malignant neoplasm of other specified part of oesophagus","Solid organ malignancies","Primary Malignancy_Oesophageal"
+"B10z.","Malignant neoplasm of oesophagus NOS","Solid organ malignancies","Primary Malignancy_Oesophageal"
+"ZV100","[V]Personal history of malignant neoplasm of gastrointestinal tract","Solid organ malignancies","Primary Malignancy_Oesophageal"

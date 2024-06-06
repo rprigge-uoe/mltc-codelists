@@ -1,0 +1,6 @@
+"Code","Description","Condition","Sub-condition"
+"I25.2","Old myocardial infarction","Coronary heart disease","Myocardial infarction"
+"I21","Acute myocardial infarction","Coronary heart disease","Myocardial infarction"
+"I22","Subsequent myocardial infarction","Coronary heart disease","Myocardial infarction"
+"I23","Certain current complications following acute myocardial infarction","Coronary heart disease","Myocardial infarction"
+"I24.1","Dressler's syndrome","Coronary heart disease","Myocardial infarction"

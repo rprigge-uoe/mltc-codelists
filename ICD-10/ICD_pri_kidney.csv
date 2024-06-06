@@ -1,0 +1,4 @@
+"Code","Description","Condition","Sub-condition"
+"C64","Malignant neoplasm of kidney, except renal pelvis","Solid organ malignancies","Primary Malignancy_Kidney and Ureter"
+"C65","Malignant neoplasm of renal pelvis","Solid organ malignancies","Primary Malignancy_Kidney and Ureter"
+"C66","Malignant neoplasm of ureter","Solid organ malignancies","Primary Malignancy_Kidney and Ureter"

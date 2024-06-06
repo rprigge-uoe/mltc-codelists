@@ -1,0 +1,8 @@
+"Code","Description","Condition","Sub-condition"
+"E12","Malnutrition-related diabetes mellitus","Diabetes NOS","Diabetes NOS"
+"O24.2","Diabetes mellitus in pregnancy: Pre-existing malnutrition-related diabetes mellitus","Diabetes NOS","Diabetes NOS"
+"E13","Other specified diabetes mellitus","Diabetes NOS","Diabetes NOS"
+"E14","Unspecified diabetes mellitus","Diabetes NOS","Diabetes NOS"
+"O24.0","Diabetes mellitus in pregnancy: Pre-existing diabetes mellitus, insulin-dependent","Diabetes NOS","Diabetes NOS"
+"O24.1","Diabetes mellitus in pregnancy: Pre-existing diabetes mellitus, non-insulin-dependent","Diabetes NOS","Diabetes NOS"
+"O24.3","Diabetes mellitus in pregnancy: Pre-existing diabetes mellitus, unspecified","Diabetes NOS","Diabetes NOS"

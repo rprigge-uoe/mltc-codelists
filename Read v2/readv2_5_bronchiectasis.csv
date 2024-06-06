@@ -1,0 +1,6 @@
+"Code","Description","Condition","Sub-condition"
+"A115.","Tuberculous bronchiectasis","Bronchiectasis","Bronchiectasis"
+"H340.","Recurrent bronchiectasis","Bronchiectasis","Bronchiectasis"
+"H341.","Post-infective bronchiectasis","Bronchiectasis","Bronchiectasis"
+"H34..","Bronchiectasis","Bronchiectasis","Bronchiectasis"
+"H34z.","Bronchiectasis NOS","Bronchiectasis","Bronchiectasis"
